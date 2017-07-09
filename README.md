@@ -25,13 +25,11 @@
 #### Les positions en CSS
 <!-- POSITION FIXE -->
 > ##### Les positions en CSS
-> Les positions sont complexes à maîtriser mais aussi à expliquer. Ce site vous expliquera parfaitement comment cela fonctionne ! :D
 
 >[![N|Solid](img/button.png)](http://fr.learnlayout.com/position.html)
 
 <!-- EXERCICE 2 -->
 > #### Exercice 2
-> Attention vous repartez du même code mais des changements se sont glissés, c'est ça un client ! 3:)
 
 > ![Exercice position](img/exercice2.png)
 
@@ -94,6 +92,6 @@
     
 <!-- EXERCICE 3 -->
 > #### Exercice 3
-> Partez pas en vrille, cette une capture d'image de ma page html, vous pouvez repartir de votre code en vous focalisant uniquement sur la gestion des typographies ! 3:)
+
 
 > ![Exerice typographie](img/exercice3.png)
